@@ -28,12 +28,11 @@ To use this script, you need to have PowerShell installed on your Windows device
 
 3. Navigate to the directory where you saved the script using the `cd` command. For example, if you saved it in the Downloads folder, use the following command:
 
-cd C:\Users\YourUsername\Downloads
+`cd C:\Users\YourUsername\Downloads`
 
 4. Execute the script by running the following command:
 
-.\BrowserDataCleanup.ps1
-
+`.\BrowserDataCleanup.ps1`
 
 5. The script will prompt you for permission to run because it contains execution policies. Type `Y` and press Enter to continue.
 
@@ -56,8 +55,3 @@ This script is provided as-is and does not guarantee the complete removal of all
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
